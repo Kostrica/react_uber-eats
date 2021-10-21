@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/react_uber-eats/static/css/main.65938976.chunk.css",
-    "main.js": "/react_uber-eats/static/js/main.c52d50dd.chunk.js",
-    "main.js.map": "/react_uber-eats/static/js/main.c52d50dd.chunk.js.map",
+    "main.css": "/react_uber-eats/static/css/main.fb44627c.chunk.css",
+    "main.js": "/react_uber-eats/static/js/main.5ae02e09.chunk.js",
+    "main.js.map": "/react_uber-eats/static/js/main.5ae02e09.chunk.js.map",
     "runtime~main.js": "/react_uber-eats/static/js/runtime~main.bef14170.js",
     "runtime~main.js.map": "/react_uber-eats/static/js/runtime~main.bef14170.js.map",
-    "static/js/2.ec295295.chunk.js": "/react_uber-eats/static/js/2.ec295295.chunk.js",
-    "static/js/2.ec295295.chunk.js.map": "/react_uber-eats/static/js/2.ec295295.chunk.js.map",
+    "static/css/2.f7861fd5.chunk.css": "/react_uber-eats/static/css/2.f7861fd5.chunk.css",
+    "static/js/2.6787b654.chunk.js": "/react_uber-eats/static/js/2.6787b654.chunk.js",
+    "static/js/2.6787b654.chunk.js.map": "/react_uber-eats/static/js/2.6787b654.chunk.js.map",
     "index.html": "/react_uber-eats/index.html",
-    "precache-manifest.4831411afdd49c016f287f8976f8d4d0.js": "/react_uber-eats/precache-manifest.4831411afdd49c016f287f8976f8d4d0.js",
+    "precache-manifest.a0b9ff14bc964061cdaee119791b07fb.js": "/react_uber-eats/precache-manifest.a0b9ff14bc964061cdaee119791b07fb.js",
     "service-worker.js": "/react_uber-eats/service-worker.js",
-    "static/css/main.65938976.chunk.css.map": "/react_uber-eats/static/css/main.65938976.chunk.css.map"
+    "static/css/2.f7861fd5.chunk.css.map": "/react_uber-eats/static/css/2.f7861fd5.chunk.css.map",
+    "static/css/main.fb44627c.chunk.css.map": "/react_uber-eats/static/css/main.fb44627c.chunk.css.map",
+    "static/media/Logo.svg": "/react_uber-eats/static/media/Logo.903ab651.svg",
+    "static/media/close-icon.svg": "/react_uber-eats/static/media/close-icon.53aa94d3.svg",
+    "static/media/footer-logo.svg": "/react_uber-eats/static/media/footer-logo.4757b73b.svg"
   }
 }
